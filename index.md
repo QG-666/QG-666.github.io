@@ -1,6 +1,4 @@
----
 title: Home
----
 
 # Welcome to My Personal Homepage
 
