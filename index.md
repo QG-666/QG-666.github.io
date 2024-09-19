@@ -18,6 +18,7 @@ Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Pol
 - **Email**: qigang.zhang@connect.polyu.hk
 </details>
 
+
 ## Education Background
 ### The Hong Kong Polytechnic University (PolyU)
 - **Degree Expected**: BEng (Hons) Electronic & Information Engineering
