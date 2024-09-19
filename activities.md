@@ -4,8 +4,6 @@ title: Extracurricular Activities
 permalink: /activities/
 ---
 
-# Extracurricular Activities
-
 ## Video Production for “The Constitution and The Hong Kong Basic Law Mini-Conference 2023/24”
 - **Role**: Individual Producer
 - **Duration**: 12/2023-01/2024

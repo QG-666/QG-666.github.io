@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: post
 title: Internship Experience
 permalink: /internship/
 ---
-
-# Internship Experience
 
 ## Sohu.com
 - **Role**: Sales Support Intern
