@@ -4,8 +4,8 @@ title: Internship Experience
 permalink: /internship/
 ---
 
-![Image](/asset/images/搜狐.png)
-## Sohu.com
+![Sohu.com](/asset/images/sohu_icon.png)
+## Sohu.com 
 - **Role**: Sales Support Intern
 - **Duration**: 06/2023–07/2023
 - **Location**: Shanghai, China
