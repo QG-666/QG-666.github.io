@@ -7,7 +7,7 @@ permalink: /
 # Welcome to My Personal Homepage
 
 ## About Me
-Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Polytechnic University, majoring in Electronic Information Engineering. I am expected to graduate in June 2025.
+Hello! I'm Qigang Zhang, currently an undergraduate student at <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> (PolyU) , majoring in Electronic Information Engineering. I am expected to graduate in June 2025.
 
 - **Phone**: +852 97045609
 - **Email**: qigang.zhang@connect.polyu.hk
