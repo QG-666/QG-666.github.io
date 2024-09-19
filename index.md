@@ -15,7 +15,7 @@ Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Pol
 ## Education Background
 <h3>
   <a href="https://www.polyu.edu.hk/">
-  <img src="{{ site.baseurl }}/asset/images/PolyU_Logo.png" alt="PolyU icon" style="width: 212px; height: 40px; vertical-align: middle;"></a>
+  <img src="{{ site.baseurl }}/asset/images/PolyU_Logo.png" alt="PolyU icon" style="width: 170px; height: 40px; vertical-align: middle;"></a>
   The Hong Kong Polytechnic University (PolyU)
 </h3>
 
