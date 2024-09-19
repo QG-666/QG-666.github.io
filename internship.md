@@ -4,6 +4,7 @@ title: Internship Experience
 permalink: /internship/
 ---
 
+![Image](/images/IMG_20231109_171049.jpg)
 ## Sohu.com
 - **Role**: Sales Support Intern
 - **Duration**: 06/2023–07/2023
