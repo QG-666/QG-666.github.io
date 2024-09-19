@@ -1,22 +1,7 @@
 theme: minima
 title: Qigang's homepage
-description: Bookmark this to keep an eye on my project updates!
+description:
+ZHANG Qigang  | Daniel
+PolyU
+21102826D@connect.polyu.hk
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
-twitter_username: your_twitter_username
-github_username: your_github_username
-
-# Build settings
-plugins:
-  - jekyll-feed
-
-# Minima theme settings
-minima:
-  social_links:
-    twitter: your_twitter_username
-    github: your_github_username
-    linkedin: your_linkedin_username
-
-# Pagination settings
-paginate: 5
-paginate_path: "/page:num/"
