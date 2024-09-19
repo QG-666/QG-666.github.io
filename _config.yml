@@ -5,8 +5,6 @@ description: ZHANG Qigang | Daniel
 baseurl: "" # the subpath of your site, e.g. /blog
 header_pages:
   - index.md
-  - education.md
   - research.md
   - internship.md
   - activities.md
-  - skills.md
