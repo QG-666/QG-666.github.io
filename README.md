@@ -1,1 +1,1 @@
-# QG-666.github.io
+QG-666.github.io
