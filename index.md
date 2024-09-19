@@ -31,6 +31,6 @@ Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Pol
 - **Certificate**: Radio Association of China Amateur Radio Operator's Certificate
 
 ## Research Interests
-I am a self-motivated student looking for a PhD opportunity.
+- I am a self-motivated student looking for a PhD opportunity.
 
 Thank you for visiting my homepage! If you are interested in my research or have any questions, feel free to contact me.
