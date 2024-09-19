@@ -18,6 +18,7 @@ Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Pol
   <img src="{{ site.baseurl }}/asset/images/PolyU_Logo.png" alt="PolyU icon" style="width: 212px; height: 40px; vertical-align: middle;"></a>
   The Hong Kong Polytechnic University (PolyU)
 </h3>
+
 - **Degree Expected**: <a href="https://www.polyu.edu.hk/eee/-/media/department/eee/content/study/programme-documents/bachelor-of-engineering-degree-in-electronic-and-information-engineering/42470_2021_combined_full_version_20210914_r.pdf">BEng (Hons) Electronic & Information Engineering</a>
 - **GPA**: 3.63/4.3 (Top 10%)
 - **Minor**: <a href="https://www.polyu.edu.hk/af/">Finance</a>
