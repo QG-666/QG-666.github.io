@@ -14,7 +14,7 @@ permalink: /internship/
 - **Responsibilities**: Provided creative support as sales support, developed a WeChat mini game about music rhythm
 
 <h2>
-  <img src="{{ site.baseurl }}/asset/images/KONKA_icon2.png" alt="图标" style="width: 40px; height: 200px; vertical-align: middle;">
+  <img src="{{ site.baseurl }}/asset/images/KONKA_icon2.png" alt="图标" style="width: 40px; height: 170px; vertical-align: middle;">
   Konka Zhitong Co., Ltd.
 </h2>
 - **Role**: Project Assistant
