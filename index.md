@@ -19,6 +19,7 @@ Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Pol
 </details>
 
 
+了解更多 Personal 或阅读我的 第一篇博客。
 ## Education Background
 ### The Hong Kong Polytechnic University (PolyU)
 - **Degree Expected**: BEng (Hons) Electronic & Information Engineering
