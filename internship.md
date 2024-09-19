@@ -6,10 +6,10 @@ permalink: /internship/
 
 ![Sohu.com](/asset/images/sohu_icon.png)
 
-<h1>
+<h2>
   <img src="{{ site.baseurl }}/asset/images/sohu_icon.png" alt="图标" style="width: 30px; height: 30px; vertical-align: middle;">
-  欢迎访问我的博客！
-</h1>
+  Sohu.com 
+</h2>
 ## Sohu.com 
 - **Role**: Sales Support Intern
 - **Duration**: 06/2023–07/2023
