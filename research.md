@@ -7,7 +7,7 @@ permalink: /research/
 ## 1. PolyU Undergraduate Research and Innovation Scheme (URIS)
 - **Duration**: 08/2023–08/2024
 - **Project**: Blockchain-enabled Smart E-Lock for One-Stop Cross-Border Logistics
-- **Supervisor**: [Dr. Gangyan Xu](https://www.polyu.edu.hk/aae/people/academic-staff/dr-xu-gangyan/#:~:text=Dr.%20XU%20is%20an%20assistant%20professor%20at%20Department:target="_blank" "Xu Gangyan")
+- **Supervisor**: [Dr. Gangyan Xu](https://www.polyu.edu.hk/aae/people/academic-staff/dr-xu-gangyan/ "Dr. XU"){:target="_blank"}
 - **Role**: Team Leader
 - **Responsibilities**: Developed hardware and software
 
