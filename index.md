@@ -14,14 +14,14 @@ Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Pol
 
 ## Education Background
 <h3>
-  <a href="https://www.polyu.edu.hk/">
+  <a href="https://www.polyu.edu.hk/" target="_blank">
   <img src="{{ site.baseurl }}/asset/images/PolyU_Logo.png" alt="PolyU icon" style="width: 170px; height: 40px; vertical-align: middle;"></a>
   The Hong Kong Polytechnic University (PolyU)
 </h3>
 
-- **Degree Expected**: <a href="https://www.polyu.edu.hk/eee/-/media/department/eee/content/study/programme-documents/bachelor-of-engineering-degree-in-electronic-and-information-engineering/42470_2021_combined_full_version_20210914_r.pdf">BEng (Hons) Electronic & Information Engineering</a>
+- **Degree Expected**: <a href="https://www.polyu.edu.hk/eee/-/media/department/eee/content/study/programme-documents/bachelor-of-engineering-degree-in-electronic-and-information-engineering/42470_2021_combined_full_version_20210914_r.pdf" target="_blank">BEng (Hons) Electronic & Information Engineering</a>
 - **GPA**: 3.63/4.0 (Top 10%)
-- **Minor**: <a href="https://www.polyu.edu.hk/af/">Finance</a>
+- **Minor**: [Finance](https://www.polyu.edu.hk/af/ "AF"){:target="_blank"}
 - **Honors and Awards**:
   - Champion of the Micro Mouse Competitions (Team Leader)
   - Undergraduate Research and Innovation Scheme (URIS) Scholarship
