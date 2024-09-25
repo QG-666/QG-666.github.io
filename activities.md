@@ -21,7 +21,7 @@ permalink: /activities/
 - **Role**: Team Member
 - **Duration**: 12/2023 - 06/2024
 - **Achievement**: Won the 3rd runner-up in Men’s Silver Cup Final in Stanley Dragon Boat Warm-up Race
-- **Facebook**: https://www.facebook.com/photo/?fbid=10161631018379239&set=pcb.10159989525361705
+- **Facebook**: <a href="https://www.facebook.com/photo/?fbid=10161631018379239&set=pcb.10159989525361705">link</a>
 
 ## Video Production for “The Constitution and The Hong Kong Basic Law Mini-Conference 2023/24”
 - **Role**: Individual Producer
