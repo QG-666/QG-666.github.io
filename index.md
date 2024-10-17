@@ -23,15 +23,16 @@ Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Pol
 - **GPA**: 3.63/4.0 (Top 10%)
 - **Minor**: [Finance](https://www.polyu.edu.hk/af/ "AF"){:target="_blank"}
 - **Honors and Awards**:
-  - Champion of the Micro Mouse Competitions (Team Leader)
+  - 2023-24 Dean's Honours List
   - Undergraduate Research and Innovation Scheme (URIS) Scholarship
+  - Champion of the Micro Mouse Competitions (Team Leader)
   - Merit Award of EEE Microcontroller Application Design Contest (2023-2024)
   - Best Semester GPA Award
 
 ## Skills and Certificates
 - **Skills**: Proficient in Python, JAVA, and C++; developing STM32 using uVision
-- **Languages**: Fluent in English; basic Cantonese and Japanese
-- **Certificate**: Radio Association of China Amateur Radio Operator's Certificate
+- **Languages**: Native in Chinese; Fluent in English; basic Cantonese and Japanese
+- **Certificate**: CRAC Amateur Radio Operation Licence - class A (A类中国无线电协会业余电台操作证书)
 
 ## Research Interests
 - I am a self-motivated student looking for a PhD opportunity.
