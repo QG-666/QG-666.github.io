@@ -22,7 +22,7 @@ permalink: /research/
 - **Duration**: 09/2023–06/2024
 - **Project**: Built-from-scratch and ROS-controlled loading and unloading trolley capable of autonomous obstacle avoidance and tracking
 
-## 4. AI-basecIntelligence Video Analytics System for Smart Elderly Home"
+## 4. AI-base Intelligence Video Analytics System for Smart Elderly Home
 - **Duration**: 09/2024–Present
 - **Project**: Development of a computer vision-based system for detecting and correcting poor posture to mitigate rounded shoulders and hunchback
 - **Role**: Student Assistant
