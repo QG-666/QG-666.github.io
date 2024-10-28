@@ -37,4 +37,8 @@ Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Pol
 ## Research Interests
 - I am a self-motivated student looking for a PhD opportunity.
 
+## Others
+- I'm also a small up on Bilibili, posting some handcraft and live videos. Visrt [here](https://space.bilibili.com/107827554 "Bilibili"){:target="_blank"} if you want to watch my video.
+- Also, my [Github](https://github.com/QG-666 "Github"){:target="_blank"}
+
 Thank you for visiting my homepage! If you are interested in my research or have any questions, feel free to contact me.
