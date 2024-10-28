@@ -23,7 +23,7 @@ Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Pol
 - **GPA**: 3.63/4.0 (Top 10%)
 - **Minor**: [Finance](https://www.polyu.edu.hk/af/ "AF"){:target="_blank"}
 - **Honors and Awards**:
-  - 2023-24 Dean's Honours List
+  - 2023-24 Dean's Honours List <span style="color: red;">(new!)</span>
   - Undergraduate Research and Innovation Scheme (URIS) Scholarship
   - Champion of the Micro Mouse Competitions (Team Leader)
   - Merit Award of EEE Microcontroller Application Design Contest (2023-2024)
