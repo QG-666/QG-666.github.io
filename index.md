@@ -20,7 +20,7 @@ Hello! I'm Qigang Zhang, currently an undergraduate student at The Hong Kong Pol
 </h3>
 
 - **Degree Expected**: <a href="https://www.polyu.edu.hk/eee/-/media/department/eee/content/study/programme-documents/bachelor-of-engineering-degree-in-electronic-and-information-engineering/42470_2021_combined_full_version_20210914_r.pdf" target="_blank">BEng (Hons) Electronic & Information Engineering</a>
-- **GPA**: 3.63/4.0 (Top 10%)
+- **GPA**: 3.69/4.0 (Top 5%)
 - **Minor**: [Finance](https://www.polyu.edu.hk/af/ "AF"){:target="_blank"}
 - **Honors and Awards**:
   - 2023-24 Dean's Honours List <span style="color: red;">(new!)</span>
