@@ -6,7 +6,7 @@ permalink: /internship/
 
 <h2>
   PolyU Industrial Centre
-  <img src="{{ site.baseurl }}/asset/images/PolyU_Logo.png" alt="Industrial Centre" style="width: 50px; height: 50px; vertical-align: middle;">
+  <img src="{{ site.baseurl }}/asset/images/PolyU_Logo.png" alt="Industrial Centre" style="width: 212px; height: 50px; vertical-align: middle;">
 </h2>
 - **Role**: Student Assistant
 - **Duration**: 09/2024–01/2025
