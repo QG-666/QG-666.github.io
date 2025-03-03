@@ -5,6 +5,15 @@ permalink: /internship/
 ---
 
 <h2>
+  PolyU Industrial Centre
+  <img src="{{ site.baseurl }}/asset/images/PolyU_Logo.png" alt="Soho.com icon" style="width: 50px; height: 50px; vertical-align: middle;">
+</h2>
+- **Role**: Student Assistant
+- **Duration**: 09/2024–01/2025
+- **Location**: Hong Kong SAR, China
+- **Responsibilities**: Served in an integrated research project to provide support for the improvement of the GUI and other components.
+
+<h2>
   Sohu.com 
   <img src="{{ site.baseurl }}/asset/images/sohu_icon.png" alt="Soho.com icon" style="width: 50px; height: 50px; vertical-align: middle;">
 </h2>
